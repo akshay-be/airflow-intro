@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "role": "Administrator",
+    "isActive": true,
+    "skills": ["Python", "SQL", "Cloud Architecture"]
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "role": "Data Analyst",
+    "isActive": false,
+    "skills": ["R", "Tableau", "Excel"]
+  },
+  {
+    "id": 3,
+    "name": "Charlie Davis",
+    "email": "charlie.davis@example.com",
+    "role": "Software Engineer",
+    "isActive": true,
+    "skills": ["JavaScript", "React", "Node.js"]
+  }
+]
